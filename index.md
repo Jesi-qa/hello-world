@@ -1,5 +1,7 @@
 #Hello, world!
+
 A new line!
+
 ## Ingredients
 
 * 2 avocados
@@ -7,7 +9,7 @@ A new line!
 * 1 tsp salt
 * 1 onion
 
-## Instructions
+### Instructions
 
 1. Chop avocados
 2. chop onions
